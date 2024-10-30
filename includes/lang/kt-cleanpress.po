@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kt-CleanPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-23 09:12-0800\n"
+"PO-Revision-Date: 2012-07-23 09:13-0800\n"
+"Last-Translator: mwaelk\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\Users\\i7\\Desktop\\trunk\n"
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:21
+msgid "Please Select Some Options"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:25
+msgid "Your Database is Already clean and optimized."
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:28
+#, php-format
+msgid "Original Database Size was %1s , Final Database size is %2s , Freed Space %3s , Execution Time : %4s"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:34
+msgid "Posts Cleaning options"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:35
+msgid "Clean Draft Posts"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:37
+msgid "Clean Pending Posts"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:39
+msgid "Clean Trash Posts"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:43
+msgid "Pages Cleaning options"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:44
+msgid "Clean Draft Pages"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:46
+msgid "Clean Pending Pages"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:48
+msgid "Clean Trash Pages"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:52
+msgid "Comments Cleaning options"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:53
+msgid "Clean Spam Comments"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:55
+msgid "Clean Unapproved  Comments"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:57
+msgid "Clean Trash  Comments"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:61
+msgid "Other Cleaning options"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:62
+msgid "Clean Post Revisions"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:64
+msgid "Clean Auto Draft"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:66
+msgid "Clean Other Left Overs"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:68
+msgid "Clean Empty  Categories"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:70
+msgid "Clean Empty  Tags"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:72
+msgid "Optimize Tables"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:75
+msgid "Select All"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:76
+msgid "Execute"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-left-display-options.php:77
+msgid "Reset"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:7
+msgid "HELP SECTION"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:9
+msgid "Posts cleaning options"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:10
+msgid "Clean Draft Posts:"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:11
+msgid "Will remove all posts marked as Draft including any related database data."
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:12
+msgid "Clean Pending Posts:"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:13
+msgid "Will remove all posts marked as pending including any related database data."
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:14
+msgid "Clean trash Posts:"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:15
+msgid "Will remove all posts marked as trash including any related database data."
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:18
+msgid "Pages Cleaning Options"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:19
+msgid "Clean Draft Pages:"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:20
+msgid "Will remove all pages marked as Draft including any related database data."
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:21
+msgid "Clean Pending Pages:"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:22
+msgid "Will remove all pages marked as Pending any related database data."
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:23
+msgid "Clean Trash Pages:"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:24
+msgid "Will remove all pages marked as Trash any related database data."
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:27
+msgid "Comments Cleaning Options"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:28
+msgid "Clean Spam Comments:"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:29
+msgid "Will remove all comments marked as spam including any related database data."
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:30
+msgid "Clean Unapproved Comments:"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:31
+msgid "Will remove all comments marked as unapproved including any related database data."
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:32
+msgid "Clean Trash Comments:"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:33
+msgid "Will remove all comments marked as trash including any related database data."
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:36
+msgid "Other Cleaning Options"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:37
+msgid "Clean Post Revisions:"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:38
+msgid "Whenever a post is edited and saved WordPress automatically creates a backup to which one can revert. This option will remove all posts backups."
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:39
+msgid "Clean Auto Draft :"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:40
+msgid "This is a left over from the process of creating a new WordPress page or post and not saving it as a draft of publishing it."
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:41
+msgid "Clean Other Left Overs:"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:42
+msgid "Will remove navigation menus that are created but not saved , and all their related data ,  and will also remove  unneeded lock and last entries in the database."
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:43
+msgid "Clean Empty Categories:"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:44
+msgid "Will delete all categories that don’t have any post or link associated with them but will not remove the default WordPress categories."
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:45
+msgid "Clean Empty Tags:"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:46
+msgid "Will delete all tags that don’t have any post associated with them."
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:47
+msgid "Optimize Tables:"
+msgstr ""
+
+#: C:\Users\i7\Desktop\trunk/includes/kt-right-display-options.php:48
+msgid "Reclaim unused space and defragment the data file."
+msgstr ""
+

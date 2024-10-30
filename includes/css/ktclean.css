@@ -1,0 +1,83 @@
+.ktmainclass{
+	width:1050px;
+	height:500px;
+	font-family:  sans-serif,calibri, Geneva;
+	font-size: 17px;
+	font-style: none;
+	font-weight: none;
+	line-height: 20px;
+}
+
+.ktcleanpressright , .ktcleanpressleft{
+	border: 1px solid #999;
+	border-radius: 10px ;
+	box-shadow: 2px 2px 3px 3px #CCC;
+	background-color: #CCC;
+	padding:10px;
+}
+
+.ktcleanpressright{
+	margin:10px 0px 10px 25px;
+	width: 500px;
+	height:450px;
+	float: left;
+	overflow: scroll;
+}
+
+.ktcleanpressleft{
+	margin:10px 0px 0px 10px;
+	width:450px;
+	height:450px;
+	float: left;
+}
+
+.ktcleanpressleft legend, .ktcleanpressright legend{
+	font-weight: bold;
+	color: #066;
+}
+.ktcleanpressleft fieldset, .ktcleanpressright fieldset{
+	border: 1px solid #999;
+	border-radius: 10px ;
+	padding: 5px 10px;
+}
+
+.ktcleanpressleft input[type="box"] , .ktcleanpressleft label{
+	display: block;
+}
+
+.ktcleanpressleft label {
+	float: left;
+}
+
+.ktcleanpressleft input + label{
+	clear: left;
+}
+
+.ktcleanpressleft label + input {
+	float: right;
+}
+
+.ktcleanpressleft input[type="reset"], .ktcleanpressleft input[type="submit"] {
+	float: right;
+}
+
+.ktcleanpressright .kthtitle{
+	border: 1px dashed #999;
+	font-size: 19px;
+	font-weight: bold;
+	text-align: center;
+	display: block;
+	color: #066;
+}
+
+
+.ktcleanpressright .kttitle{
+	font-style: italic;
+	text-decoration: underline;
+}
+
+.ktcleanpressright .kttext{
+	font-family:  sans-serif,calibri, Geneva;
+	font-size: 14px;
+}
+
